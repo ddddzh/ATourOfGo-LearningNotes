@@ -1,0 +1,2 @@
+- [Notes](./Notes.md)
+- [Exercises](./exercises/index.md)
